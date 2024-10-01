@@ -1,12 +1,12 @@
 [![MasterHead](https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966)]
 <h1 align="center">Hi 👋, I'm Tayyaba Saleem</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate frontend developer and python developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/0c/b0/ae/0cb0aec97240b7d9746073cd3ba6c26f.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayyaba-saleem123&label=Profile%20views&color=0e75b6&style=flat" alt="tayyaba-saleem123" /> </p>
 
-- 🌱 I’m currently learning **React.js and Node.js**
+- 🌱 I’m currently learning **React.js Node.js python Artifical intelligence and machine learning**
 
-- 💬 Ask me about **Html, CSS, JavaScript**
+- 💬 Ask me about **Html, CSS, JavaScript, python, machine learning**
 
 - 📫 How to reach me **tayyabasaleem312@gmail.com**
 
